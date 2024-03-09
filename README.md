@@ -1,4 +1,4 @@
-# Exam1-SECTION 2-PROGRAMMING QUESTION -60 POINTS
+# EXAM1-SECTION 2-PROGRAMMING QUESTION -60 POINTS
 
 This repository contains files for the Exam 1 submission.
 
